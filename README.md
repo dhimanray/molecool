@@ -16,6 +16,8 @@ to do a developmental install.
 This package requires the following:
 -numpy
 
+Switch to new branch
+
 ### Copyright
 
 Copyright (c) 2020, Dhiman Ray
