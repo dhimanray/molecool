@@ -13,6 +13,9 @@ This repository is currently under developement.
 
 to do a developmental install.
 
+This package requires the following:
+-numpy
+
 ### Copyright
 
 Copyright (c) 2020, Dhiman Ray
