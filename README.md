@@ -7,6 +7,12 @@ molecool
 
 Test package
 
+This repository is currently under developement.
+
+`pip install -e .`
+
+to do a developmental install.
+
 ### Copyright
 
 Copyright (c) 2020, Dhiman Ray
