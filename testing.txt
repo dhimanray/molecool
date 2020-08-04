@@ -8,3 +8,4 @@ I added this from a new clone!
 *****************************************
 This is the ending of testing.txt
 *****************************************
+Now I added a new line!
